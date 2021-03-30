@@ -1,0 +1,6 @@
+Full datasets from web scraping available at:
+ - April marketplace datasets: https://drive.google.com/drive/folders/1RwQAStq5UW0c88piEkh3O_QiqMOwy9SY?usp=sharing
+ - May marketplace datasets: https://drive.google.com/drive/folders/1x-vK0-ZsHDYSX1_rVLI_4o5hPxU4DjgX?usp=sharing
+
+Note:
+ - Datasets format are in .pkl (pickle)
