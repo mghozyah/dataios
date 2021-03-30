@@ -9,4 +9,4 @@ Credit:
 1. Muhammad Ghozy Al Haqqoni 
 
 
-2. Setia Pramana ()
+2. Setia Pramana 
